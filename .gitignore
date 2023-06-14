@@ -1,5 +1,6 @@
 .*
 !.gitignore
+
 # HashiCat deployment Nov 2022
 
 # Terraform state files    #
@@ -38,7 +39,5 @@ terraform.rc
 ############################
 # exercises
 
-# GitHub Actions - do not  
-# propagate until the end
-############################
-terraform.yml
+
+!.github/
