@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!hashicat-azure
+!terraform-cloud
+!terraform-github
+!terraform-api
+!scripts
